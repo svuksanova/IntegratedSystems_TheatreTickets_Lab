@@ -174,8 +174,7 @@
               "RelativeToolTip": "TheatreTickets.Domain\\Domain\\Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:53:11.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:53:11.335Z"
             },
             {
               "$type": "Document",
@@ -187,8 +186,7 @@
               "RelativeToolTip": "TheatreTickets.Domain\\Identity\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:52:55.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:52:55.499Z"
             },
             {
               "$type": "Document",
@@ -198,7 +196,7 @@
               "RelativeDocumentMoniker": "TheatreTickets.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "TheatreTickets.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAArwBIAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T16:51:24.876Z",
               "EditorCaption": ""
@@ -206,15 +204,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TheatreTickets.Web",
+              "Title": "TheatreTickets.Web.csproj",
               "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Web\\TheatreTickets.Web.csproj",
               "RelativeDocumentMoniker": "TheatreTickets.Web\\TheatreTickets.Web.csproj",
               "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Web\\TheatreTickets.Web.csproj",
               "RelativeToolTip": "TheatreTickets.Web\\TheatreTickets.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-01T16:46:53.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:46:53.695Z"
             },
             {
               "$type": "Document",
@@ -226,8 +223,7 @@
               "RelativeToolTip": "TheatreTickets.Domain\\Domain\\TheatreShow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:46:43.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:46:43.401Z"
             },
             {
               "$type": "Document",
