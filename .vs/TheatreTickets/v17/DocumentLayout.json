@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Integrirani\\TheatreTickets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4480ACFE-5CA1-4B27-8A33-4F7EE6458970}|TheatreTickets.Web\\TheatreTickets.Web.csproj|d:\\integrirani\\theatretickets\\theatretickets.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4480ACFE-5CA1-4B27-8A33-4F7EE6458970}|TheatreTickets.Web\\TheatreTickets.Web.csproj|solutionrelative:theatretickets.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DD4323-21EC-4587-8E56-F0491CCF6444}|TheatreTickets.Domain\\TheatreTickets.Domain.csproj|d:\\integrirani\\theatretickets\\theatretickets.domain\\domain\\theatreshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DD4323-21EC-4587-8E56-F0491CCF6444}|TheatreTickets.Domain\\TheatreTickets.Domain.csproj|solutionrelative:theatretickets.domain\\domain\\theatreshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DD4323-21EC-4587-8E56-F0491CCF6444}|TheatreTickets.Domain\\TheatreTickets.Domain.csproj|d:\\integrirani\\theatretickets\\theatretickets.domain\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DD4323-21EC-4587-8E56-F0491CCF6444}|TheatreTickets.Domain\\TheatreTickets.Domain.csproj|solutionrelative:theatretickets.domain\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DD4323-21EC-4587-8E56-F0491CCF6444}|TheatreTickets.Domain\\TheatreTickets.Domain.csproj|d:\\integrirani\\theatretickets\\theatretickets.domain\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DD4323-21EC-4587-8E56-F0491CCF6444}|TheatreTickets.Domain\\TheatreTickets.Domain.csproj|solutionrelative:theatretickets.domain\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4480ACFE-5CA1-4B27-8A33-4F7EE6458970}|TheatreTickets.Web\\TheatreTickets.Web.csproj|d:\\integrirani\\theatretickets\\theatretickets.web\\theatretickets.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4480ACFE-5CA1-4B27-8A33-4F7EE6458970}|TheatreTickets.Web\\TheatreTickets.Web.csproj|solutionrelative:theatretickets.web\\theatretickets.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250401151900_version1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Data\\Migrations\\20250401151900_version1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\Ticket\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\Ticket\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\TheatreShow\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\TheatreShow\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\TheatreShow\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\TheatreShow\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\Ticket\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\Ticket\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\Ticket\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\TheatreShow\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Areas\\Identity\\Pages\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Controllers\\TicketController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Controllers\\TicketController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Controllers\\TheatreShowController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Controllers\\TheatreShowController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\Domain\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\Domain\\Domain\\Ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Domain\\Ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\Domain\\Identity\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Identity\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\Domain\\Domain\\TheatreShow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Domain\\TheatreShow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\Domain\\TheatreTickets.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\TheatreTickets.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250330204351_Fixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Data\\Migrations\\20250330204351_Fixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250330193714_Initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Data\\Migrations\\20250330193714_Initial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250330190229_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheatreTickets\\Data\\Migrations\\20250330190229_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Domain\\Domain\\Ticket.cs",
+              "RelativeDocumentMoniker": "TheatreTickets.Domain\\Domain\\Ticket.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Domain\\Domain\\Ticket.cs",
+              "RelativeToolTip": "TheatreTickets.Domain\\Domain\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:53:11.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Domain\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TheatreTickets.Domain\\Identity\\ApplicationUser.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Domain\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "TheatreTickets.Domain\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:52:55.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "TheatreTickets.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "TheatreTickets.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:51:24.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheatreTickets.Web",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Web\\TheatreTickets.Web.csproj",
+              "RelativeDocumentMoniker": "TheatreTickets.Web\\TheatreTickets.Web.csproj",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Web\\TheatreTickets.Web.csproj",
+              "RelativeToolTip": "TheatreTickets.Web\\TheatreTickets.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T16:46:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheatreShow.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Domain\\Domain\\TheatreShow.cs",
+              "RelativeDocumentMoniker": "TheatreTickets.Domain\\Domain\\TheatreShow.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets.Domain\\Domain\\TheatreShow.cs",
+              "RelativeToolTip": "TheatreTickets.Domain\\Domain\\TheatreShow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:46:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250401151900_version1.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250401151900_version1.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Data\\Migrations\\20250401151900_version1.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250401151900_version1.cs",
+              "RelativeToolTip": "TheatreTickets\\Data\\Migrations\\20250401151900_version1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:19:00.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\Ticket\\Delete.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Delete.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\Ticket\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T22:19:10.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Create.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\Ticket\\Create.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Create.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\Ticket\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T20:34:03.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Index.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\TheatreShow\\Index.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Index.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\TheatreShow\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:56:10.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Create.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\TheatreShow\\Create.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Create.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\TheatreShow\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T20:46:08.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T18:57:10.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T22:01:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\TheatreShow\\Edit.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Edit.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\TheatreShow\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T21:10:39.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Details.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\TheatreShow\\Details.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Details.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\TheatreShow\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T22:04:21.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Details.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\Ticket\\Details.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Details.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\Ticket\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T22:19:50.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Index.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\Ticket\\Index.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Index.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\Ticket\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T20:59:57.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\Ticket\\Edit.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Ticket\\Edit.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\Ticket\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T21:58:53.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T22:04:03.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\TheatreShow\\Delete.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\TheatreShow\\Delete.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\TheatreShow\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T22:01:48.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T21:58:20.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Program.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Program.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Program.cs",
+              "RelativeToolTip": "TheatreTickets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:55:05.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TheatreTickets\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:56:00.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Controllers\\TicketController.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "TheatreTickets\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:45:32.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TheatreShowController.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Controllers\\TheatreShowController.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Controllers\\TheatreShowController.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Controllers\\TheatreShowController.cs",
+              "RelativeToolTip": "TheatreTickets\\Controllers\\TheatreShowController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:39:42.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TheatreTickets\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:38:00.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:12:02.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "TheatreTickets\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:56:51.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\Domain\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\Domain\\ErrorViewModel.cs",
+              "RelativeToolTip": "Domain\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:06:36.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\Domain\\Domain\\Ticket.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain\\Ticket.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\Domain\\Domain\\Ticket.cs",
+              "RelativeToolTip": "Domain\\Domain\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:05:30.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\Domain\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\ApplicationUser.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\Domain\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Domain\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T22:05:46.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TheatreShow.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\Domain\\Domain\\TheatreShow.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain\\TheatreShow.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\Domain\\Domain\\TheatreShow.cs",
+              "RelativeToolTip": "Domain\\Domain\\TheatreShow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:55:22.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TheatreTickets.Domain.csproj",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\Domain\\TheatreTickets.Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\TheatreTickets.Domain.csproj",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\Domain\\TheatreTickets.Domain.csproj",
+              "RelativeToolTip": "Domain\\TheatreTickets.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T21:54:14.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwBsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:11:59.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250330204351_Fixed.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250330204351_Fixed.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Data\\Migrations\\20250330204351_Fixed.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250330204351_Fixed.cs",
+              "RelativeToolTip": "TheatreTickets\\Data\\Migrations\\20250330204351_Fixed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T20:43:52.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250330193714_Initial1.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250330193714_Initial1.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Data\\Migrations\\20250330193714_Initial1.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250330193714_Initial1.cs",
+              "RelativeToolTip": "TheatreTickets\\Data\\Migrations\\20250330193714_Initial1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:37:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TheatreTickets\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TheatreTickets\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T19:47:54.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "TheatreTickets\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "TheatreTickets\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-30T19:05:27.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250330190229_Initial.cs",
+              "DocumentMoniker": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250330190229_Initial.cs",
+              "RelativeDocumentMoniker": "TheatreTickets\\Data\\Migrations\\20250330190229_Initial.cs",
+              "ToolTip": "D:\\Integrirani\\TheatreTickets\\TheatreTickets\\Data\\Migrations\\20250330190229_Initial.cs",
+              "RelativeToolTip": "TheatreTickets\\Data\\Migrations\\20250330190229_Initial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:02:29.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

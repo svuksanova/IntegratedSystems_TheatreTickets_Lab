@@ -1,0 +1,12 @@
+D:\Integrirani\TheatreTickets\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Integrirani\TheatreTickets\Domain\bin\Debug\net8.0\Domain.dll
+D:\Integrirani\TheatreTickets\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Integrirani\TheatreTickets\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Integrirani\TheatreTickets\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integrirani\TheatreTickets\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Integrirani\TheatreTickets\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Integrirani\TheatreTickets\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Integrirani\TheatreTickets\Domain\obj\Debug\net8.0\Domain.dll
+D:\Integrirani\TheatreTickets\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Integrirani\TheatreTickets\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Integrirani\TheatreTickets\Domain\obj\Debug\net8.0\ref\Domain.dll
